@@ -1,0 +1,8 @@
+public class Main {
+    public static void main(String[] args) {
+        // Loop through the ASCII values of 'a' to 'z' and print the corresponding characters
+        for (char ch = 'a'; ch <= 'z'; ch++) {
+            System.out.print(ch + " ");
+        }
+    }
+}
